@@ -8,7 +8,7 @@ public class Add {
 	System.out.println("Addition is "+z);
 	int c=10;
 	int d=10;
-	int y=a+b;
+	int y=c+d;
 	System.out.println("Addition is "+y);
 	
 	}
